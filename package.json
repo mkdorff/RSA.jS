@@ -13,6 +13,7 @@
   "dependencies": {
     "big-integer": "^1.6.26",
     "quick-is-prime": "^1.0.7",
-    "random-number-csprng": "^1.0.2"
+    "random-number-csprng": "^1.0.2",
+    "readline-sync": "^1.4.9"
   }
 }
