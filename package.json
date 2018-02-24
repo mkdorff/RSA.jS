@@ -1,0 +1,18 @@
+{
+  "name": "RSA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.26",
+    "quick-is-prime": "^1.0.7",
+    "random-number-csprng": "^1.0.2"
+  }
+}
